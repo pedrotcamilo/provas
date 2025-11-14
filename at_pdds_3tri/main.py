@@ -20,4 +20,4 @@ while tentativas <= 10:
 
     else:
         print("Você acertou o número!")
-        tentativas = 10
+        tentativas = 11
